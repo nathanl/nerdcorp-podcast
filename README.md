@@ -22,6 +22,10 @@ This name is basically terrible, eh?
   - How some Git stuff works?
   - ?? Your ideas here!! ??
 
+## The Plan
+
+Let's record one episode, share it internally, and decide whether to continue!
+
 ## How we'll record
 
 - We start a video/audio hangout, probably via https://appear.in/some-room-name-of-our-choosing
