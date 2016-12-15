@@ -1,10 +1,13 @@
 # Nerdcorps Podcast
 
-This name is basically terrible, eh?
+This name is basically terrible, eh? Some other ideas for names:
 
-## TODO:
-
-- Think of a better name.
+- 10-gallon Chat
+- [Cowboy Coding](https://en.wikipedia.org/wiki/Cowboy_coding) (apparently "cowboy" is gender-neutral - see "cowgirl" [here](http://www.cowboyshowcase.com/the-people--the-land.html#.WFJr8KIrLfY))
+- Code Wranglers [taken](http://codewranglers.org/) - maybe "Code Wrangling Podcast"
+- The Nerdcast (taken)
+- Tumbleweed (something?)
+- Something about a campfire?
 
 ## General Idea
 
